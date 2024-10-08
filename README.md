@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**Ken-K12/Ken-K12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/Ken-K12">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Ken-K12" />
+  </a>
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://img.shields.io/github/followers/Ken-K12?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Keichan_15">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Ken-K12/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Keichan_15">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Ken-K12/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/keichan_15">
+    <img height="20" src="https://badgen.org/img/zenn/Ken-K12/articles?style=plastic" />
+  </a>
+</p>
