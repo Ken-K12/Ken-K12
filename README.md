@@ -18,11 +18,11 @@
 - 🍖 健康維持のため。料理を勉強中です。
 
 ## Portfolio Site
-業務経歴などを掲載する予定です。
+業務経歴などを掲載する予定です。  
 https://xdsk4pc7dkisu4nlfeqhszvdia0jowrg.lambda-url.ap-northeast-1.on.aws/#profile
 
 ## Blog
-PCI DSS v4.0 と CSPレポート の利用
+PCI DSS v4.0 と CSPレポート の利用  
 https://tech.nri-net.com/entry/pci_dss_v40_and_csp_report
 
 
