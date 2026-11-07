@@ -7,28 +7,52 @@
   </a>
 </p>
 
-# Hello And Welcome  🚀
+# Hi, I'm Kenji Kawashima 👋
+
+**Cloud & Infrastructure Security Engineer | AWS | DevOps | SRE**
+📍 Tokyo, Japan · Open to relocating to Canada 🇨🇦
 
 ## About Me
 
-- 💻 現在ITコンサルタントとして活動しており、主にAzureやM365を利用したクラウドインフラストラクチャのセキュリティ強化、モダナイズ化を推進。
-- 🦡 神戸大学経済学部経済学科を卒業
-- 🏃‍♀️ 業務以外では、トレーニング・ランニング・トレッキング・柔術を楽しんでいます・
-- 🍖 健康維持のため。料理を勉強中です。
+- ☁️ I work in cloud and infrastructure security, with a focus on AWS.
+- 🔧 I automate operations with Python, Bash, and PowerShell: alert aggregation and report generation, security group management, and script-based visualization of infrastructure design.
+- 🏗️ I own and maintain CI/CD pipelines in Jenkins (around 200 jobs across multiple environments) and have led server migration work.
+- 📐 I help define system governance, monitoring design, and disaster recovery (DR) standards, including RTO/RPO targets by system tier.
+- 🛡️ I have a security background, including PCI DSS and CSP reporting.
+- 🎓 B.A. in Economics, Kobe University.
 
-## Portfolio Site
-業務経歴などを掲載する予定です。  
-https://xdsk4pc7dkisu4nlfeqhszvdia0jowrg.lambda-url.ap-northeast-1.on.aws/#profile
+## What I'm Working On
+
+| Project | Status |
+|---|---|
+| [aws-kubernetes-reliability](https://github.com/Ken-K12/aws-kubernetes-reliability): a minimal, reproducible EKS environment built with Terraform | 🚧 In progress |
+| Kubernetes (RBAC, certificates, scheduling, networking) | 📚 Studying hands-on |
+| Terraform + GitHub Actions workflow | 🚧 In progress |
+
+## Tech Stack
+
+- **Cloud:** AWS (primary), Azure (learning)
+- **IaC / Containers:** Terraform, Kubernetes, EKS
+- **CI/CD:** Jenkins, GitHub Actions
+- **Scripting:** Python, Bash, PowerShell
+- **OS:** Linux
+- **Practices:** Monitoring and alerting, DR planning, security governance
 
 ## Blog
-PCI DSS v4.0 と CSPレポート の利用  
-https://tech.nri-net.com/entry/pci_dss_v40_and_csp_report
 
+- [Using PCI DSS v4.0 and CSP Reports](https://tech.nri-net.com/entry/pci_dss_v40_and_csp_report) (written in Japanese)
 
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,python,docker,js,html,css" />
-<br>
+## Languages
 
+Japanese (native) · English (professional working proficiency, improving)
+
+## Beyond Work
+
+Running, trekking, jiu-jitsu, and cooking 🍖
+
+## Contact
+
+LinkedIn: <your LinkedIn URL>
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-K12&theme=gruvbox)
