@@ -21,13 +21,27 @@
 - 🛡️ I have a security background, including PCI DSS and CSP reporting.
 - 🎓 B.A. in Economics, Kobe University.
 
-## What I'm Working On
+## Featured Project
 
-| Project | Status |
+**[aws-kubernetes-reliability](https://github.com/Ken-K12/aws-kubernetes-reliability)**: a minimal, reproducible EKS environment on AWS, built with Terraform. 🚧 In progress
+
+| Area | What exists today |
 |---|---|
-| [aws-kubernetes-reliability](https://github.com/Ken-K12/aws-kubernetes-reliability): a minimal, reproducible EKS environment built with Terraform | 🚧 In progress |
-| Kubernetes (RBAC, certificates, scheduling, networking) | 📚 Studying hands-on |
-| Terraform + GitHub Actions workflow | 🚧 In progress |
+| ☁️ AWS (Terraform) | VPC across 2 AZs, EKS control plane, IAM roles, worker nodes |
+| 🔁 DevOps | Feature-branch pull requests; pytest checks for the VPC (boto3) |
+| 📈 SRE | Planned: Deployment with 3 replicas, probes, resource limits, and an HPA (3–10 pods) |
+
+## Portfolio Roadmap: Next 3 Steps
+
+I am finishing one small project end to end before starting another. Priority: **AWS → DevOps → SRE**.
+
+1. **AWS: document the infrastructure.** Add an architecture diagram, an estimated monthly cost, and step-by-step deploy and teardown commands to the project README.
+2. **DevOps: add a CI check.** Add a GitHub Actions workflow that runs `terraform fmt -check`, `terraform validate`, and lint checks on every pull request, with no AWS credentials needed.
+3. **SRE: prove one reliability scenario.** Complete the Deployment and HPA manifests, test self-healing by deleting a pod, then record the commands, observed output, and lessons learned in the project README.
+
+### Learning in Parallel
+
+- 📚 Kubernetes hands-on: RBAC, certificates, scheduling, networking
 
 ## Tech Stack
 
